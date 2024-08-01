@@ -10,7 +10,7 @@
     "BY_XPATH": false,
     "DOMAIN" : "balenciaga.com",
     "PRODUCTS_PER_HTML_TAG": "c-product__item",
-    "URL_LIST": ["https://www.balenciaga.com/en-us/men/accessories/view-all-the-accessories", "https://www.balenciaga.com/en-us/women/shoes/view-all"]
+    "URL_LIST": ["https://www.balenciaga.com/en-us/men/accessories/view-all-the-accessories"]
   },
   "68": {
     "METHOD" : "Click",
