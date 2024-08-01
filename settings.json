@@ -75,7 +75,7 @@
     "BY_XPATH": false,
     "DOMAIN": "fendi.com",
     "PRODUCTS_PER_HTML_TAG": "c-tiles col-6 col-lg-3 d-flex flex-column",
-    "URL_LIST": ["https://www.fendi.com/it-en/woman/ready-to-wear", "https://www.fendi.com/it-en/woman/shoes", "https://www.fendi.com/it-en/woman/accessories", "https://www.fendi.com/it-en/woman/small-leather-goods_1", "https://www.fendi.com/it-en/woman/fashion-jewelry", "https://www.fendi.com/it-en/woman/beachwear", "https://www.fendi.com/it-en/man/bags", "https://www.fendi.com/it-en/man/ready-to-wear", "https://www.fendi.com/it-en/man/shoes", "https://www.fendi.com/it-en/man/accessories", "https://www.fendi.com/it-en/man/small-leather-goods_1", "https://www.fendi.com/it-en/man/fashion-jewelry", "https://www.fendi.com/it-en/man/beachwear", "https://www.fendi.com/it-en/fragrances", "https://www.fendi.com/it-en/woman/bags", "https://www.fendi.com/us-en/woman/bags", "https://www.fendi.com/us-en/woman/ready-to-wear", "https://www.fendi.com/us-en/woman/shoes", "https://www.fendi.com/us-en/woman/accessories", "https://www.fendi.com/us-en/woman/small-leather-goods", "https://www.fendi.com/us-en/woman/fashion-jewelry", "https://www.fendi.com/us-en/woman/beachwear", "https://www.fendi.com/us-en/man/bags", "https://www.fendi.com/us-en/man/ready-to-wear", "https://www.fendi.com/us-en/man/shoes", "https://www.fendi.com/us-en/man/accessories", "https://www.fendi.com/us-en/man/small-leather-goods", "https://www.fendi.com/us-en/man/fashion-jewelry_1", "https://www.fendi.com/us-en/man/beachwear", "https://www.fendi.com/us-en/fragrances", "https://www.fendi.com/us-en/man/travel"]
+    "URL_LIST": ["https://www.fendi.com/it-en/woman/fashion-jewelry", "https://www.fendi.com/it-en/woman/beachwear"]
   },
   "93": {
     "METHOD" : "Hybrid",
