@@ -10,7 +10,7 @@
     "BY_XPATH": false,
     "DOMAIN" : "balenciaga.com",
     "PRODUCTS_PER_HTML_TAG": "c-product__item",
-    "URL_LIST": ["https://www.balenciaga.com/en-us/men/accessories/view-all-the-accessories"]
+    "URL_LIST": ["https://www.balenciaga.com/en-us/women/ready-to-wear/sweatshirts-and-hoodies"]
   },
   "68": {
     "METHOD" : "Click",
