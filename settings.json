@@ -324,24 +324,6 @@
     "PRODUCTS_PER_HTML_TAG": "tile tile--span-4 tile--has-link product-tile",
     "URL_LIST": ["https://www.acnestudios.com/it/en/man/shoes-and-accessories/", "https://www.acnestudios.com/it/en/man/clothing/", "https://www.acnestudios.com/it/en/man/jeans/", "https://www.acnestudios.com/it/en/man/scarves/", "https://www.acnestudios.com/it/en/man/bags/", "https://www.acnestudios.com/it/en/woman/clothing/", "https://www.acnestudios.com/it/en/woman/shoes-and-accessories/", "https://www.acnestudios.com/it/en/woman/jeans/", "https://www.acnestudios.com/it/en/woman/scarves/", "https://www.acnestudios.com/it/en/woman/bags/", "https://www.acnestudios.com/us/en/man/shoes-and-accessories/", "https://www.acnestudios.com/us/en/man/clothing/", "https://www.acnestudios.com/us/en/man/jeans/", "https://www.acnestudios.com/us/en/man/scarves/", "https://www.acnestudios.com/us/en/man/bags/", "https://www.acnestudios.com/us/en/woman/clothing/", "https://www.acnestudios.com/us/en/woman/shoes-and-accessories/", "https://www.acnestudios.com/us/en/woman/jeans/", "https://www.acnestudios.com/us/en/woman/scarves/", "https://www.acnestudios.com/us/en/woman/bags/"]
   },
-  "374": {
-    "METHOD": "Click",
-    "DIRECTORY": "Moose_Knuckles",
-    "ELEMENT_LOCATOR": "div.Plp_load-more-wrapper__3HheE div.Button_secondary__xOtDg",
-    "POPUP_TEXT": ["No, thanks"],
-    "POPUP_ID": [null],
-    "POPUP_CLASS": ["ltkpopup-close ltkpopup-close-button"],
-    "POPUP_XPATH": [null],
-    "BY_XPATH": false,
-    "POPUP_WAIT_TIME" : 5,
-    "GENERAL_WAIT_TIME" : 10,
-    "MAX_RETRIES" : 10,
-    "INITIAL_SCROLL_BACK_AMOUNT" : 300,
-    "SCROLL_BACK_CHANGE" : 100,
-    "DOMAIN": "mooseknuckles.com",
-    "PRODUCTS_PER_HTML_TAG": "ProductTile_productitem-block__2sZ1u",
-    "URL_LIST": ["https://www.mooseknucklescanada.com/eu-de/c/men/clothing", "https://www.mooseknucklescanada.com/eu-de/c/men/outerwear", "https://www.mooseknucklescanada.com/eu-de/c/accessories", "https://www.mooseknucklescanada.com/eu-de/c/men/icons", "https://www.mooseknucklescanada.com/eu-de/c/women/icons", "https://www.mooseknucklescanada.com/eu-de/c/women/clothing", "https://www.mooseknucklescanada.com/eu-de/c/women/outerwear", "https://www.mooseknucklescanada.com/eu-de/c/accessories", "https://www.mooseknucklescanada.com/eu-de/c/women/sale", "https://www.mooseknucklescanada.com/eu-de/c/kids/sale", "https://www.mooseknucklescanada.com/eu-de/c/men/sale", "https://www.mooseknucklescanada.com/us-en/c/men/clothing", "https://www.mooseknucklescanada.com/us-en/c/men/outerwear", "https://www.mooseknucklescanada.com/us-en/c/accessories", "https://www.mooseknucklescanada.com/us-en/c/men/icons", "https://www.mooseknucklescanada.com/us-en/c/women/icons", "https://www.mooseknucklescanada.com/us-en/c/women/clothing", "https://www.mooseknucklescanada.com/us-en/c/women/outerwear", "https://www.mooseknucklescanada.com/us-en/c/accessories", "https://www.mooseknucklescanada.com/us-en/c/women/sale", "https://www.mooseknucklescanada.com/us-en/c/kids/sale", "https://www.mooseknucklescanada.com/us-en/c/men/sale"]
-  },
   "523": {
     "METHOD": "Click",
     "DIRECTORY": "Tom_Ford",
@@ -468,24 +450,6 @@
     "PRODUCTS_PER_HTML_TAG": "grid-cell",
     "URL_LIST": ["https://it.mcmworldwide.com/en_IT/women/bags/all-bags", "https://it.mcmworldwide.com/en_IT/women/wallets/all-wallets", "https://it.mcmworldwide.com/en_IT/women/accessories/all-accessories", "https://it.mcmworldwide.com/en_IT/women/fragrance", "https://IT.mcmworldwide.com/en_IT/women/clothing/all-clothing", "https://IT.mcmworldwide.com/en_IT/women/shoes/all-shoes", "https://IT.mcmworldwide.com/en_IT/travel/all-travel", "https://IT.mcmworldwide.com/en_IT/men/bags/all-bags", "https://IT.mcmworldwide.com/en_IT/men/wallets/all-wallets", "https://IT.mcmworldwide.com/en_IT/men/accessories/all-accessories", "https://IT.mcmworldwide.com/en_IT/men/fragrance", "https://IT.mcmworldwide.com/en_IT/men/clothing/all-clothing", "https://IT.mcmworldwide.com/en_IT/men/shoes/all-shoes", "https://it.mcmworldwide.com/en_IT/gifts/gifts-for-her", "https://it.mcmworldwide.com/en_IT/gifts/gifts-for-him", "https://us.mcmworldwide.com/en_US/women/bags/all-bags", "https://us.mcmworldwide.com/en_US/women/wallets/all-wallets", "https://us.mcmworldwide.com/en_US/women/accessories/all-accessories", "https://us.mcmworldwide.com/en_US/women/fragrance", "https://us.mcmworldwide.com/en_US/women/clothing/all-clothing", "https://us.mcmworldwide.com/en_US/women/shoes/all-shoes", "https://us.mcmworldwide.com/en_US/travel/all-travel", "https://us.mcmworldwide.com/en_US/men/bags/all-bags", "https://us.mcmworldwide.com/en_US/men/wallets/all-wallets", "https://us.mcmworldwide.com/en_US/men/accessories/all-accessories", "https://us.mcmworldwide.com/en_US/men/fragrance", "https://us.mcmworldwide.com/en_US/men/clothing/all-clothing", "https://us.mcmworldwide.com/en_US/men/shoes/all-shoes", "https://us.mcmworldwide.com/en_US/gifts/gifts-for-her", "https://us.mcmworldwide.com/en_US/gifts/gifts-for-her"]
   },
-  "317": {
-    "METHOD": "Pages",
-    "DIRECTORY": "Louboutin",
-    "ELEMENT_LOCATOR": "li.item.pages-item-next a.action.next",
-    "POPUP_TEXT": [null],
-    "POPUP_ID": ["onetrust-accept-btn-handler"],
-    "POPUP_CLASS": ["action-close"],
-    "POPUP_XPATH": ["//button[@class='action-close' and @data-role='closeBtn']"],
-    "BY_XPATH": false,
-    "POPUP_WAIT_TIME" : 5,
-    "GENERAL_WAIT_TIME" : 10,
-    "MAX_RETRIES" : 10,
-    "INITIAL_SCROLL_BACK_AMOUNT" : 300,
-    "SCROLL_BACK_CHANGE" : 100,
-    "DOMAIN": "christianlouboutin.com",
-    "PRODUCTS_PER_HTML_TAG": "item product product-item",
-    "URL_LIST": ["https://eu.christianlouboutin.com/fr_fr/mesdames/les-essentiels/tous-les-essentiels/", "https://eu.christianlouboutin.com/fr_fr/mesdames/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/mesdames/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/mesdames/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/messieurs/les-essentiels/tous-les-essentiels/", "https://eu.christianlouboutin.com/fr_fr/messieurs/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/messieurs/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/messieurs/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/mesdames/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/mesdames/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/messieurs/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/messieurs/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/enfants/garcons/tout-l-univers-garcon/", "https://eu.christianlouboutin.com/fr_fr/enfants/filles/tout-l-univers-fille/", "https://eu.christianlouboutin.com/fr_fr/enfants/bebes/tout-l-univers-bebe/", "https://eu.christianlouboutin.com/fr_fr/mariage/l-enfant-d-honneur/tout-pour-l-enfant-d-honneur/", "https://eu.christianlouboutin.com/fr_fr/mariage/les-invites/tout-pour-les-invites/", "https://eu.christianlouboutin.com/fr_fr/messieurs/rechercher-par-occasion/mariage/", "https://eu.christianlouboutin.com/fr_fr/mesdames/rechercher-par-occasion/mariage/", "https://eu.christianlouboutin.com/fr_fr/beaute/yeux/tous-les-produits-yeux/", "https://eu.christianlouboutin.com/fr_fr/beaute/teint/tous-les-produits-teint/", "https://eu.christianlouboutin.com/fr_fr/beaute/levres/tous-les-produits-levres/", "https://eu.christianlouboutin.com/fr_fr/beaute/parfums/tous-les-parfums/", "https://eu.christianlouboutin.com/fr_fr/beaute/ongles/tous-les-produits-ongles/", "https://us.christianlouboutin.com/us_en/ladies/shoes/all-shoes/", "https://us.christianlouboutin.com/us_en/ladies/bags/all-bags/", "https://us.christianlouboutin.com/us_en/ladies/accessories/all-accessories/", "https://us.christianlouboutin.com/us_en/gentlemen/shoes/all-shoes/", "https://us.christianlouboutin.com/us_en/gentlemen/bags/all-bags/", "https://us.christianlouboutin.com/us_en/gentlemen/accessories/all-accessories/", "https://us.christianlouboutin.com/us_en/kids/baby/all-baby/", "https://us.christianlouboutin.com/us_en/kids/girls/all-girls/", "https://us.christianlouboutin.com/us_en/kids/boys/all-boys/", "https://us.christianlouboutin.com/us_en/ladies/shop-by-occasion/wedding/", "https://us.christianlouboutin.com/us_en/gentlemen/shop-by-occasion/wedding/", "https://us.christianlouboutin.com/us_en/bridal/wedding-collection-for-the-guests/all-wedding-guest-shoes-bags/", "https://us.christianlouboutin.com/us_en/beauty/fragrances/all-fragrances/", "https://us.christianlouboutin.com/us_en/beauty/lips/all-lip-makeup/", "https://us.christianlouboutin.com/us_en/beauty/face/all-face-makeup/", "https://us.christianlouboutin.com/us_en/beauty/eyes/all-eye-makeup/", "https://us.christianlouboutin.com/us_en/beauty/nails/all-nail-products/"]
-  },
   "536": {
     "METHOD": "Click",
     "DIRECTORY": "Valentino",
@@ -597,45 +561,6 @@
     "DOMAIN": "chloe.com",
     "PRODUCTS_PER_HTML_TAG": "searchProduct-wrapper",
     "URL_LIST": ["https://www.chloe.com/it/chloe/shop-online/women/bags", "https://www.chloe.com/it/chloe/shop-online/women/ready-to-wear", "https://chloe.com/it/chloe/shop-online/women/shoes", "https://www.chloe.com/it/chloe/shop-online/women/small-leather-goods", "https://www.chloe.com/it/chloe/shop-online/women/accessories", "https://www.chloe.com/it/chloe/shop-online/women/eyewear", "https://www.chloe.com/it/chloe/shop-online/women/fragrances", "https://www.chloe.com/it/chloe/shop-online/women/childrenswear", "https://www.chloe.com/it/chloe/shop-online/women/sale", "https://www.chloe.com/us/chloe/shop-online/women/bags", "https://www.chloe.com/us/chloe/shop-online/women/ready-to-wear", "https://chloe.com/us/chloe/shop-online/women/shoes", "https://www.chloe.com/us/chloe/shop-online/women/small-leather-goods", "https://www.chloe.com/us/chloe/shop-online/women/accessories", "https://www.chloe.com/us/chloe/shop-online/women/eyewear", "https://www.chloe.com/us/chloe/shop-online/women/fragrances", "https://www.chloe.com/us/chloe/shop-online/women/childrenswear", "https://www.chloe.com/us/chloe/shop-online/women/sale"]
-  },
-  "401": {
-    "METHOD": "Click",
-    "DIRECTORY": "Off_White",
-    "ELEMENT_LOCATOR": "div.css-1hnvvvj button.emnvohd0.css-1n21rpr.e1hob6j91",
-    "POPUP_TEXT": [],
-    "POPUP_ID": [],
-    "POPUP_CLASS": [],
-    "POPUP_XPATH": [],
-    "BY_XPATH": false,
-    "POPUP_WAIT_TIME" : 5,
-    "GENERAL_WAIT_TIME" : 10,
-    "MAX_RETRIES" : 10,
-    "INITIAL_SCROLL_BACK_AMOUNT" : 300,
-    "SCROLL_BACK_CHANGE" : 100,
-    "DOMAIN": "off---white.com",
-    "PRODUCTS_PER_HTML_TAG": "css-18srfn0 e134ay6f10",
-    "URL_LIST": ["https://www.off---white.com/it-it/shopping/man-clothing", "https://www.off---white.com/it-it/shopping/man-shoes", "https://www.off---white.com/it-it/shopping/man-bags", "https://www.off---white.com/it-it/shopping/man-accessories", "https://www.off---white.com/it-it/shopping/man-jewelry", "https://www.off---white.com/it-it/shopping/woman-clothing", "https://www.off---white.com/it-it/shopping/woman-shoes", "https://www.off---white.com/it-it/shopping/woman-activewear", "https://www.off---white.com/it-it/shopping/woman-bags", "https://www.off---white.com/it-it/shopping/woman-accessories", "https://www.off---white.com/it-it/shopping/woman-jewelry", "https://www.off---white.com/it-it/shopping/kids-boys", "https://www.off---white.com/it-it/shopping/kids-girls", "https://www.off---white.com/it-it/shopping/kids-baby", "https://www.off---white.com/it-it/shopping/eyewear-sunglasses", "https://www.off---white.com/it-it/shopping/eyewear-eyeglasses", "https://www.off---white.com/it-it/shopping/eyewear-icon-sunglasses", "https://www.off---white.com/it-it/shopping/homeware", "https://www.off---white.com/en-us/shopping/man-clothing", "https://www.off---white.com/en-us/shopping/man-shoes", "https://www.off---white.com/en-us/shopping/man-bags", "https://www.off---white.com/en-us/shopping/man-accessories", "https://www.off---white.com/en-us/shopping/man-jewelry", "https://www.off---white.com/en-us/shopping/woman-clothing", "https://www.off---white.com/en-us/shopping/woman-shoes", "https://www.off---white.com/en-us/shopping/woman-activewear", "https://www.off---white.com/en-us/shopping/woman-bags", "https://www.off---white.com/en-us/shopping/woman-accessories", "https://www.off---white.com/en-us/shopping/woman-jewelry", "https://www.off---white.com/en-us/shopping/kids-boys", "https://www.off---white.com/en-us/shopping/kids-girls", "https://www.off---white.com/en-us/shopping/kids-baby", "https://www.off---white.com/en-us/shopping/eyewear-sunglasses", "https://www.off---white.com/en-us/shopping/eyewear-eyeglasses", "https://www.off---white.com/en-us/shopping/eyewear-icon-sunglasses", "https://www.off---white.com/en-us/shopping/homeware"]
-  },
-  "412": {
-    "METHOD": "Pages",
-    "DIRECTORY": "Palm_Angels",
-    "ELEMENT_LOCATOR": [
-      "button[data-test='full-pagination-next']",
-      "button[data-test='simple-pagination-next']"
-    ],
-    "POPUP_TEXT": [],
-    "POPUP_ID": [],
-    "POPUP_CLASS": [],
-    "POPUP_XPATH": [],
-    "BY_XPATH": false,
-    "POPUP_WAIT_TIME" : 5,
-    "GENERAL_WAIT_TIME" : 10,
-    "MAX_RETRIES" : 10,
-    "INITIAL_SCROLL_BACK_AMOUNT" : 300,
-    "SCROLL_BACK_CHANGE" : 100,
-    "DOMAIN": "palmangels.com",
-    "PRODUCTS_PER_HTML_TAG": "\"product-card\"",
-    "URL_LIST": ["https://www.palmangels.com/en-us/sets/sale-man", "https://www.palmangels.com/en-us/sets/sale-woman", "https://palmangels.com/en-us/sets/sale-children", "https://www.palmangels.com/en-us/sets/new-in-man", "https://www.palmangels.com/en-us/sets/new-in-woman", "https://www.palmangels.com/en-us/sets/new-in-kids", "https://www.palmangels.com/en-us/shopping/man-clothing", "https://www.palmangels.com/en-us/shopping/man-bags", "https://www.palmangels.com/en-us/shopping/man-shoes", "https://www.palmangels.com/en-us/shopping/man-accessories", "https://www.palmangels.com/en-us/sets/f1-collection-racing-haas", "https://www.palmangels.com/en-us/sets/lunar-new-year", "https://www.palmangels.com/en-us/shopping/home", "https://www.palmangels.com/en-us/sets/gifts-for-him", "https://www.palmangels.com/en-us/sets/online-exclusive-man", "https://www.palmangels.com/en-us/shopping/woman-clothing", "https://www.palmangels.com/en-us/shopping/woman-bags", "https://www.palmangels.com/en-us/shopping/woman-shoes", "https://www.palmangels.com/en-us/sets/lunar-new-year", "https://www.palmangels.com/en-us/sets/gifts-for-her", "https://www.palmangels.com/en-us/sets/online-exclusive-woman", "https://www.palmangels.com/en-us/shopping/eyewear", "https://www.palmangels.com/en-us/shopping/kids-boy", "https://www.palmangels.com/en-us/shopping/kids-girl", "https://www.palmangels.com/en-us/sets/f1-collection-racing-haas", "https://www.palmangels.com/en-us/sets/icons-boy", "https://www.palmangels.com/en-us/shopping/kids-baby", "https://www.palmangels.com/en-us/sets/icons-girl", "https://www.palmangels.com/en-us/sets/gifts-for-boy", "https://www.palmangels.com/en-us/sets/gifts-for-girl", "https://www.palmangels.com/en-us/sets/icons-man", "https://www.palmangels.com/en-us/sets/bear-man", "https://www.palmangels.com/en-us/sets/curved-logo-man", "https://www.palmangels.com/en-us/sets/spray-city-monogram", "https://www.palmangels.com/en-us/sets/tracksuits-man", "https://www.palmangels.com/en-us/sets/icons-woman", "https://www.palmangels.com/en-us/sets/bear-woman", "https://www.palmangels.com/en-us/sets/curved-logo-woman", "https://www.palmangels.com/en-us/sets/tracksuits-woman", "https://www.palmangels.com/en-us/sets/f1-collection-racing-haas", "https://www.palmangels.com/en-us/sets/tods-sneakers-tab", "https://www.palmangels.com/en-us/sets/moncler-x-palm-angels-genius", "https://www.palmangels.com/en-us/sets/moncler-maya-down-jackets", "https://www.palmangels.com/it-it/sets/sale-man", "https://www.palmangels.com/it-it/sets/sale-woman", "https://palmangels.com/it-it/sets/sale-children", "https://www.palmangels.com/it-it/sets/new-in-man", "https://www.palmangels.com/it-it/sets/new-in-woman", "https://www.palmangels.com/it-it/sets/new-in-kids", "https://www.palmangels.com/it-it/shopping/man-clothing", "https://www.palmangels.com/it-it/shopping/man-bags", "https://www.palmangels.com/it-it/shopping/man-shoes", "https://www.palmangels.com/it-it/shopping/man-accessories", "https://www.palmangels.com/it-it/sets/f1-collection-racing-haas", "https://www.palmangels.com/it-it/sets/lunar-new-year", "https://www.palmangels.com/it-it/shopping/home", "https://www.palmangels.com/it-it/sets/gifts-for-him", "https://www.palmangels.com/it-it/sets/online-exclusive-man", "https://www.palmangels.com/it-it/shopping/woman-clothing", "https://www.palmangels.com/it-it/shopping/woman-bags", "https://www.palmangels.com/it-it/shopping/woman-shoes", "https://www.palmangels.com/it-it/sets/lunar-new-year", "https://www.palmangels.com/it-it/sets/gifts-for-her", "https://www.palmangels.com/it-it/sets/online-exclusive-woman", "https://www.palmangels.com/it-it/shopping/eyewear", "https://www.palmangels.com/it-it/shopping/kids-boy", "https://www.palmangels.com/it-it/shopping/kids-girl", "https://www.palmangels.com/it-it/sets/f1-collection-racing-haas", "https://www.palmangels.com/it-it/sets/icons-boy", "https://www.palmangels.com/it-it/shopping/kids-baby", "https://www.palmangels.com/it-it/sets/icons-girl", "https://www.palmangels.com/it-it/sets/gifts-for-boy", "https://www.palmangels.com/it-it/sets/gifts-for-girl", "https://www.palmangels.com/it-it/sets/icons-man", "https://www.palmangels.com/it-it/sets/bear-man", "https://www.palmangels.com/it-it/sets/curved-logo-man", "https://www.palmangels.com/it-it/sets/spray-city-monogram", "https://www.palmangels.com/it-it/sets/tracksuits-man", "https://www.palmangels.com/it-it/sets/icons-woman", "https://www.palmangels.com/it-it/sets/bear-woman", "https://www.palmangels.com/it-it/sets/curved-logo-woman", "https://www.palmangels.com/it-it/sets/tracksuits-woman", "https://www.palmangels.com/it-it/sets/f1-collection-racing-haas", "https://www.palmangels.com/it-it/sets/tods-sneakers-tab", "https://www.palmangels.com/it-it/sets/moncler-x-palm-angels-genius", "https://www.palmangels.com/it-it/sets/moncler-maya-down-jackets"]
   },
   "110": {
     "METHOD": "Scroll",
