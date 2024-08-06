@@ -2,7 +2,7 @@
   "66": {
     "METHOD" : "Hybrid",
     "DIRECTORY" : "Balenciaga",
-    "ELEMENT_LOCATOR": "button.c-loadmore__btn.c-button--animation[data-action='loadMoreProducts']",
+    "ELEMENT_LOCATOR": ["button.c-loadmore__btn.c-button--animation[data-action='loadMoreProducts']"],
     "POPUP_TEXT": ["No, stay on the United States site"],
     "POPUP_ID": [null],
     "POPUP_CLASS": [null],
@@ -20,7 +20,7 @@
   "68": {
     "METHOD" : "Click",
     "DIRECTORY" : "Balmain",
-    "ELEMENT_LOCATOR": "button.load-more-link",
+    "ELEMENT_LOCATOR": ["button.load-more-link"],
     "POPUP_TEXT": ["No, stay on the United States site","No, stay on the Italy site"],
     "POPUP_ID": [null,null],
     "POPUP_CLASS": ["js-save-geoloc","js-save-geoloc"],
@@ -38,7 +38,7 @@
   "601": {
     "METHOD" : "Click",
     "DIRECTORY" : "Brunello_Cucinelli",
-    "ELEMENT_LOCATOR": "a#loadMoreButtonPLP.cc-button-secondary.cc-load-more-button",
+    "ELEMENT_LOCATOR": ["a#loadMoreButtonPLP.cc-button-secondary.cc-load-more-button"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -56,7 +56,7 @@
   "227": {
     "METHOD" : "Click",
     "DIRECTORY" : "Givenchy",
-    "ELEMENT_LOCATOR": "a.all.btn.btn-outline-primary.btn-load.js-pager-view-more",
+    "ELEMENT_LOCATOR": ["a.all.btn.btn-outline-primary.btn-load.js-pager-view-more"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -74,7 +74,7 @@
   "275": {
     "METHOD" : "Click",
     "DIRECTORY" : "Kenzo",
-    "ELEMENT_LOCATOR": "button.importance-secondary",
+    "ELEMENT_LOCATOR": ["button.importance-secondary"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -92,7 +92,7 @@
   "201": {
     "METHOD" : "Click",
     "DIRECTORY" : "Fendi",
-    "ELEMENT_LOCATOR": "button.c-search-results__product-grid-show-more.show-more.btn.btn-primary.btn-primary--small-pd-ar.more",
+    "ELEMENT_LOCATOR": ["button.c-search-results__product-grid-show-more.show-more.btn.btn-primary.btn-primary--small-pd-ar.more"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -110,7 +110,7 @@
   "93": {
     "METHOD" : "Hybrid",
     "DIRECTORY" : "Bottega_Veneta",
-    "ELEMENT_LOCATOR": "div.ab1251271-trigger",
+    "ELEMENT_LOCATOR": ["div.ab1251271-trigger"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -128,7 +128,7 @@
   "101": {
     "METHOD": "Hybrid",
     "DIRECTORY": "Burberry",
-    "ELEMENT_LOCATOR": "button.product-listing-shelf__view-more-new.css-o1bmk2.e6yz8z0",
+    "ELEMENT_LOCATOR": ["button.product-listing-shelf__view-more-new.css-o1bmk2.e6yz8z0"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -146,7 +146,7 @@
   "481": {
     "METHOD": "Click",
     "DIRECTORY": "Ferragamo",
-    "ELEMENT_LOCATOR": "button.see-more.btn.cmp-button.cmp-button--fill",
+    "ELEMENT_LOCATOR": ["button.see-more.btn.cmp-button.cmp-button--fill"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -164,7 +164,7 @@
   "439": {
   "METHOD": "Hybrid",
   "DIRECTORY": "Prada",
-  "ELEMENT_LOCATOR": "a.button-link.inline-flex.items-center[aria-label='Show more']",
+  "ELEMENT_LOCATOR": ["a.button-link.inline-flex.items-center[aria-label='Show more']"],
   "POPUP_TEXT": ["Continue without accepting","Continue without accepting"],
   "POPUP_ID": [null,null],
   "POPUP_CLASS": ["cookie__close_text","banner_cta cta_accept"],
@@ -182,7 +182,7 @@
   "542": {
     "METHOD": "Pages",
     "DIRECTORY": "Veja",
-    "ELEMENT_LOCATOR": "a.action.next",
+    "ELEMENT_LOCATOR": ["a.action.next"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -200,7 +200,7 @@
   "358": {
     "METHOD": "Hybrid",
     "DIRECTORY": "Miu_Miu",
-    "ELEMENT_LOCATOR": "a.button-link[aria-label='Show more']",
+    "ELEMENT_LOCATOR": ["a.button-link[aria-label='Show more']"],
     "POPUP_TEXT": ["continue without accepting"],
     "POPUP_ID": [null],
     "POPUP_CLASS": ["cookie__close_text"],
@@ -219,7 +219,7 @@
   "46": {
     "METHOD": "Click",
     "DIRECTORY": "Aquazzura",
-    "ELEMENT_LOCATOR": "div.load-more-items button.btn.btn-primary",
+    "ELEMENT_LOCATOR": ["div.load-more-items button.btn.btn-primary"],
     "POPUP_TEXT": ["Reject (x)"],
     "POPUP_ID": ["CybotCookiebotDialogBodyButtonDecline"],
     "POPUP_CLASS": [null],
@@ -237,7 +237,7 @@
   "223": {
     "METHOD": "Click",
     "DIRECTORY": "Gianvito_Rossi",
-    "ELEMENT_LOCATOR": "a.b-load_more-button.b-button.m-outline[data-event-click\\.prevent='loadMore']",
+    "ELEMENT_LOCATOR": ["a.b-load_more-button.b-button.m-outline[data-event-click\\.prevent='loadMore']"],
     "POPUP_TEXT": ["Continue without Accepting"],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -255,7 +255,7 @@
   "327": {
     "METHOD": "Click",
     "DIRECTORY": "Manolo_Blahnik",
-    "ELEMENT_LOCATOR": "button#load-more",
+    "ELEMENT_LOCATOR": ["button#load-more"],
     "POPUP_TEXT": ["Reject all"],
     "POPUP_ID": [null],
     "POPUP_CLASS": ["button.text-xs.lg\\:w\\[170px\\]"],
@@ -327,7 +327,7 @@
   "523": {
     "METHOD": "Click",
     "DIRECTORY": "Tom_Ford",
-    "ELEMENT_LOCATOR": "div.show-more div.text-center button.btn.btn-outline-primary.more",
+    "ELEMENT_LOCATOR": ["div.show-more div.text-center button.btn.btn-outline-primary.more"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -363,7 +363,7 @@
   "165": {
     "METHOD": "Click",
     "DIRECTORY": "DSquared2",
-    "ELEMENT_LOCATOR": "a.b-load_more-button.b-button.m-outline",
+    "ELEMENT_LOCATOR": ["a.b-load_more-button.b-button.m-outline"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -381,7 +381,7 @@
   "187": {
     "METHOD": "Click",
     "DIRECTORY": "Etro",
-    "ELEMENT_LOCATOR": "button.productgrid-pagination-cta",
+    "ELEMENT_LOCATOR": ["button.productgrid-pagination-cta"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -399,7 +399,7 @@
   "228": {
     "METHOD": "Click",
     "DIRECTORY": "Golden_Goose",
-    "ELEMENT_LOCATOR": "button.js-show-more",
+    "ELEMENT_LOCATOR": ["button.js-show-more"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -435,7 +435,7 @@
   "343": {
     "METHOD": "Click",
     "DIRECTORY": "MCM",
-    "ELEMENT_LOCATOR": "a.load-more",
+    "ELEMENT_LOCATOR": ["a.load-more"],
     "POPUP_TEXT": [null],
     "POPUP_ID": [null],
     "POPUP_CLASS": [null],
@@ -511,7 +511,7 @@
   "500": {
     "METHOD": "Click",
     "DIRECTORY": "Stone_Island",
-    "ELEMENT_LOCATOR": "button.loadMoreButton",
+    "ELEMENT_LOCATOR": ["button.loadMoreButton"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
@@ -547,7 +547,7 @@
   "125": {
     "METHOD": "Click",
     "DIRECTORY": "Chloe",
-    "ELEMENT_LOCATOR": "button.loadMoreButton",
+    "ELEMENT_LOCATOR": ["button.loadMoreButton"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
