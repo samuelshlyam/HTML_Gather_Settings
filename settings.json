@@ -583,7 +583,7 @@
   "67": {
     "METHOD": "Hybrid",
     "DIRECTORY": "Bally",
-    "ELEMENT_LOCATOR": "//*[@id=\'__next\']/div/main/div[2]/div[1]/div[6]/button",
+    "ELEMENT_LOCATOR": ["//*[@id=\"__next\"]/div/main/div[2]/div[1]/div[6]/button"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
