@@ -134,11 +134,12 @@
     "POPUP_CLASS": [],
     "POPUP_XPATH":[],
     "BY_XPATH": false,
-    "POPUP_WAIT_TIME" : 5,
-    "GENERAL_WAIT_TIME" : 10,
-    "MAX_RETRIES" : 10,
-    "INITIAL_SCROLL_BACK_AMOUNT" : 300,
-    "SCROLL_BACK_CHANGE" : 100,
+    "POPUP_WAIT_TIME": 5,
+    "GENERAL_WAIT_TIME": 10,
+    "MAX_RETRIES": 10,
+    "INITIAL_SCROLL_BACK_AMOUNT": 300,
+    "SCROLL_BACK_CHANGE": 100,
+    "IMAGES_LOAD": true,
     "DOMAIN": "burberry.com",
     "PRODUCTS_PER_HTML_TAG": "redesigned-product-card product-listing-shelf__product-card",
     "URL_LIST": ["https://it.burberry.com/mens-bags/", "https://it.burberry.com/mens-shoes/", "https://it.burberry.com/l/mens-accessories/", "https://it.burberry.com/l/scarves/", "https://it.burberry.com/womens-clothing/", "https://it.burberry.com/womens-bags/", "https://it.burberry.com/womens-shoes/", "https://it.burberry.com/l/womens-accessories/", "https://it.burberry.com/l/scarves/", "https://it.burberry.com/mens-clothing/", "https://us.burberry.com/mens-bags/", "https://us.burberry.com/mens-shoes/", "https://us.burberry.com/l/mens-accessories/", "https://us.burberry.com/l/scarves/", "https://us.burberry.com/womens-clothing/", "https://us.burberry.com/womens-bags/", "https://us.burberry.com/womens-shoes/", "https://us.burberry.com/l/womens-accessories/", "https://us.burberry.com/l/scarves/", "https://us.burberry.com/mens-clothing/"]
@@ -613,5 +614,23 @@
     "SCROLL_BACK_CHANGE": 100,
     "DOMAIN": "moschino.com",
     "PRODUCTS_PER_HTML_TAG": "sc-kCMKrZ sc-DWsrX hmNpws gyLYjC grid-product"
+  },
+  "Moose Knuckles": {
+    "METHOD": "Click",
+    "DIRECTORY": "Moose_Knuckles",
+    "ELEMENT_LOCATOR": "div.Plp_load-more-wrapper__3HheE div.Button_secondary__xOtDg",
+    "POPUP_TEXT": ["No, thanks"],
+    "POPUP_ID": [null],
+    "POPUP_CLASS": ["ltkpopup-close ltkpopup-close-button"],
+    "POPUP_XPATH": [null],
+    "IMAGES_LOAD": true,
+    "BY_XPATH": false,
+    "POPUP_WAIT_TIME": 5,
+    "GENERAL_WAIT_TIME": 10,
+    "MAX_RETRIES": 10,
+    "INITIAL_SCROLL_BACK_AMOUNT": 300,
+    "SCROLL_BACK_CHANGE": 100,
+    "DOMAIN": "mooseknuckles.com",
+    "PRODUCTS_PER_HTML_TAG": "ProductTile_productitem-block__2sZ1u"
   }
 }
