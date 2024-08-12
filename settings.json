@@ -604,7 +604,7 @@
     "POPUP_TEXT": [null],
     "POPUP_ID": [null],
     "POPUP_CLASS": [null],
-    "POPUP_XPATH": ["//*[@id="close-lead"]"],
+    "POPUP_XPATH": ["/html/body/div[2]/div[3]/div[3]/div/div/div[1]"],
     "BY_XPATH": false,
     "POPUP_WAIT_TIME": 5,
     "GENERAL_WAIT_TIME": 10,
