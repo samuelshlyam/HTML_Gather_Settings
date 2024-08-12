@@ -141,7 +141,7 @@
     "SCROLL_BACK_CHANGE": 100,
     "IMAGES_LOAD": true,
     "DOMAIN": "burberry.com",
-    "PRODUCTS_PER_HTML_TAG": "redesigned-product-card product-listing-shelf__product-card",
+    "PRODUCTS_PER_HTML_TAG": "product-listing-shelf__product-card product-listing-shelf__product-card--v2",
     "URL_LIST": ["https://it.burberry.com/mens-bags/", "https://it.burberry.com/mens-shoes/", "https://it.burberry.com/l/mens-accessories/", "https://it.burberry.com/l/scarves/", "https://it.burberry.com/womens-clothing/", "https://it.burberry.com/womens-bags/", "https://it.burberry.com/womens-shoes/", "https://it.burberry.com/l/womens-accessories/", "https://it.burberry.com/l/scarves/", "https://it.burberry.com/mens-clothing/", "https://us.burberry.com/mens-bags/", "https://us.burberry.com/mens-shoes/", "https://us.burberry.com/l/mens-accessories/", "https://us.burberry.com/l/scarves/", "https://us.burberry.com/womens-clothing/", "https://us.burberry.com/womens-bags/", "https://us.burberry.com/womens-shoes/", "https://us.burberry.com/l/womens-accessories/", "https://us.burberry.com/l/scarves/", "https://us.burberry.com/mens-clothing/"]
   },
   "481": {
