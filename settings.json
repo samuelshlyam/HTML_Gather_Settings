@@ -643,7 +643,6 @@
     "POPUP_XPATH": ["//button[@class='action-close' and @data-role='closeBtn']"],
     "BY_XPATH": false,
     "IMAGES_LOAD": false,
-    "BY_XPATH": false,
     "POPUP_WAIT_TIME": 5,
     "GENERAL_WAIT_TIME": 10,
     "MAX_RETRIES": 10,
