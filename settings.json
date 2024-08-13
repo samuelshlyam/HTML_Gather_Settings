@@ -512,7 +512,7 @@
   "500": {
     "METHOD": "Click",
     "BRAND_NAME": "Stone_Island",
-    "ELEMENT_LOCATOR": ["button.loadMoreButton"],
+    "ELEMENT_LOCATOR": ["div.container.loadmore > div > button"],
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
