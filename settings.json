@@ -652,5 +652,24 @@
     "DOMAIN": "christianlouboutin.com",
     "PRODUCTS_PER_HTML_TAG": "item product product-item",
     "URL_LIST": ["https://eu.christianlouboutin.com/fr_fr/mesdames/les-essentiels/tous-les-essentiels/", "https://eu.christianlouboutin.com/fr_fr/mesdames/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/mesdames/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/mesdames/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/messieurs/les-essentiels/tous-les-essentiels/", "https://eu.christianlouboutin.com/fr_fr/messieurs/souliers/tous-les-souliers/", "https://eu.christianlouboutin.com/fr_fr/messieurs/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/messieurs/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/mesdames/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/mesdames/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/messieurs/sacs/tous-les-sacs/", "https://eu.christianlouboutin.com/fr_fr/messieurs/accessoires/tous-les-accessoires/", "https://eu.christianlouboutin.com/fr_fr/enfants/garcons/tout-l-univers-garcon/", "https://eu.christianlouboutin.com/fr_fr/enfants/filles/tout-l-univers-fille/", "https://eu.christianlouboutin.com/fr_fr/enfants/bebes/tout-l-univers-bebe/", "https://eu.christianlouboutin.com/fr_fr/mariage/l-enfant-d-honneur/tout-pour-l-enfant-d-honneur/", "https://eu.christianlouboutin.com/fr_fr/mariage/les-invites/tout-pour-les-invites/", "https://eu.christianlouboutin.com/fr_fr/messieurs/rechercher-par-occasion/mariage/", "https://eu.christianlouboutin.com/fr_fr/mesdames/rechercher-par-occasion/mariage/", "https://eu.christianlouboutin.com/fr_fr/beaute/yeux/tous-les-produits-yeux/", "https://eu.christianlouboutin.com/fr_fr/beaute/teint/tous-les-produits-teint/", "https://eu.christianlouboutin.com/fr_fr/beaute/levres/tous-les-produits-levres/", "https://eu.christianlouboutin.com/fr_fr/beaute/parfums/tous-les-parfums/", "https://eu.christianlouboutin.com/fr_fr/beaute/ongles/tous-les-produits-ongles/", "https://us.christianlouboutin.com/us_en/ladies/shoes/all-shoes/", "https://us.christianlouboutin.com/us_en/ladies/bags/all-bags/", "https://us.christianlouboutin.com/us_en/ladies/accessories/all-accessories/", "https://us.christianlouboutin.com/us_en/gentlemen/shoes/all-shoes/", "https://us.christianlouboutin.com/us_en/gentlemen/bags/all-bags/", "https://us.christianlouboutin.com/us_en/gentlemen/accessories/all-accessories/", "https://us.christianlouboutin.com/us_en/kids/baby/all-baby/", "https://us.christianlouboutin.com/us_en/kids/girls/all-girls/", "https://us.christianlouboutin.com/us_en/kids/boys/all-boys/", "https://us.christianlouboutin.com/us_en/ladies/shop-by-occasion/wedding/", "https://us.christianlouboutin.com/us_en/gentlemen/shop-by-occasion/wedding/", "https://us.christianlouboutin.com/us_en/bridal/wedding-collection-for-the-guests/all-wedding-guest-shoes-bags/", "https://us.christianlouboutin.com/us_en/beauty/fragrances/all-fragrances/", "https://us.christianlouboutin.com/us_en/beauty/lips/all-lip-makeup/", "https://us.christianlouboutin.com/us_en/beauty/face/all-face-makeup/", "https://us.christianlouboutin.com/us_en/beauty/eyes/all-eye-makeup/", "https://us.christianlouboutin.com/us_en/beauty/nails/all-nail-products/"]
+  },
+  "544": {
+    "METHOD": "Click",
+    "DIRECTORY": "Versace",
+    "ELEMENT_LOCATOR": "button.desktop-load-more",
+    "POPUP_TEXT": [],
+    "POPUP_ID": [],
+    "POPUP_CLASS": [],
+    "POPUP_XPATH": [],
+    "BY_XPATH": false,
+    "DOMAIN": "versace.com",
+    "IMAGES_LOAD": false,
+    "POPUP_WAIT_TIME": 5,
+    "GENERAL_WAIT_TIME": 10,
+    "MAX_RETRIES": 10,
+    "INITIAL_SCROLL_BACK_AMOUNT": 300,
+    "SCROLL_BACK_CHANGE": 100,
+    "DOMAIN": "versace.com",
+    "PRODUCTS_PER_HTML_TAG": "product-tile-wrapper"
   }
 }
