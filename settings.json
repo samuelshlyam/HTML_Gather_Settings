@@ -631,7 +631,8 @@
     "INITIAL_SCROLL_BACK_AMOUNT": 300,
     "SCROLL_BACK_CHANGE": 100,
     "DOMAIN": "mooseknuckles.com",
-    "PRODUCTS_PER_HTML_TAG": "ProductTile_productitem-block__2sZ1u"
+    "PRODUCTS_PER_HTML_TAG": "ProductTile_productitem-block__2sZ1u",
+    "URL_LIST":["https://www.mooseknucklescanada.com/eu-de/c/men/clothing", "https://www.mooseknucklescanada.com/eu-de/c/men/outerwear", "https://www.mooseknucklescanada.com/eu-de/c/accessories", "https://www.mooseknucklescanada.com/eu-de/c/men/icons", "https://www.mooseknucklescanada.com/eu-de/c/women/icons", "https://www.mooseknucklescanada.com/eu-de/c/women/clothing", "https://www.mooseknucklescanada.com/eu-de/c/women/outerwear", "https://www.mooseknucklescanada.com/eu-de/c/accessories", "https://www.mooseknucklescanada.com/eu-de/c/women/sale", "https://www.mooseknucklescanada.com/eu-de/c/kids/sale", "https://www.mooseknucklescanada.com/eu-de/c/men/sale", "https://www.mooseknucklescanada.com/us-en/c/men/clothing", "https://www.mooseknucklescanada.com/us-en/c/men/outerwear", "https://www.mooseknucklescanada.com/us-en/c/accessories", "https://www.mooseknucklescanada.com/us-en/c/men/icons", "https://www.mooseknucklescanada.com/us-en/c/women/icons", "https://www.mooseknucklescanada.com/us-en/c/women/clothing", "https://www.mooseknucklescanada.com/us-en/c/women/outerwear", "https://www.mooseknucklescanada.com/us-en/c/accessories", "https://www.mooseknucklescanada.com/us-en/c/women/sale", "https://www.mooseknucklescanada.com/us-en/c/kids/sale", "https://www.mooseknucklescanada.com/us-en/c/men/sale"]
   },
   "127": {
     "METHOD": "Pages",
