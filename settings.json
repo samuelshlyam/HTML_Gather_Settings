@@ -662,7 +662,6 @@
     "POPUP_CLASS": [],
     "POPUP_XPATH": [],
     "BY_XPATH": false,
-    "DOMAIN": "versace.com",
     "IMAGES_LOAD": false,
     "POPUP_WAIT_TIME": 5,
     "GENERAL_WAIT_TIME": 10,
