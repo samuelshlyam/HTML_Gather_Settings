@@ -655,7 +655,7 @@
   },
   "544": {
     "METHOD": "Click",
-    "DIRECTORY": "Versace",
+    "BRAND_NAME": "Versace",
     "ELEMENT_LOCATOR": "button.desktop-load-more",
     "POPUP_TEXT": [],
     "POPUP_ID": [],
@@ -690,7 +690,7 @@
   },
   "286":{
     "METHOD": "Click",
-    "DIRECTORY": "Lanvin",
+    "BRAND_NAME": "Lanvin",
     "ELEMENT_LOCATOR": "button.collection__load-more",
     "POPUP_TEXT": [],
     "POPUP_ID": [],
