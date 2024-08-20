@@ -1818,7 +1818,7 @@
   "401": {
     "METHOD": "Click",
     "DIRECTORY": "Off_White",
-    "ELEMENT_LOCATOR": "div.css-1hnvvvj button.emnvohd0.css-1n21rpr.e1hob6j91",
+    "ELEMENT_LOCATOR": "div.css-1hnvvvj.emnvohd1 > button.emnvohd0.css-1n21rpr.e1hob6j91",
     "POPUP_TEXT": [],
     "POPUP_ID": [],
     "POPUP_CLASS": [],
