@@ -1815,19 +1815,6 @@
             "https://us.herno.com/en/sale/"
         ]
     },
-  "401": {
-    "METHOD": "Click",
-    "DIRECTORY": "Off_White",
-    "ELEMENT_LOCATOR": ["div.css-1hnvvvj.emnvohd1 > button.emnvohd0.css-1n21rpr.e1hob6j91"],
-    "POPUP_TEXT": [],
-    "POPUP_ID": [],
-    "POPUP_CLASS": [],
-    "POPUP_XPATH": [],
-    "BY_XPATH": false,
-    "DOMAIN": "off---white.com",
-    "PRODUCTS_PER_HTML_TAG": "css-18srfn0 e134ay6f10",
-    "URL_LIST": ["https://www.off---white.com/it-it/shopping/man-clothing", "https://www.off---white.com/it-it/shopping/man-shoes", "https://www.off---white.com/it-it/shopping/man-bags", "https://www.off---white.com/it-it/shopping/man-accessories", "https://www.off---white.com/it-it/shopping/man-jewelry", "https://www.off---white.com/it-it/shopping/woman-clothing", "https://www.off---white.com/it-it/shopping/woman-shoes", "https://www.off---white.com/it-it/shopping/woman-activewear", "https://www.off---white.com/it-it/shopping/woman-bags", "https://www.off---white.com/it-it/shopping/woman-accessories", "https://www.off---white.com/it-it/shopping/woman-jewelry", "https://www.off---white.com/it-it/shopping/kids-boys", "https://www.off---white.com/it-it/shopping/kids-girls", "https://www.off---white.com/it-it/shopping/kids-baby", "https://www.off---white.com/it-it/shopping/eyewear-sunglasses", "https://www.off---white.com/it-it/shopping/eyewear-eyeglasses", "https://www.off---white.com/it-it/shopping/eyewear-icon-sunglasses", "https://www.off---white.com/it-it/shopping/homeware", "https://www.off---white.com/en-us/shopping/man-clothing", "https://www.off---white.com/en-us/shopping/man-shoes", "https://www.off---white.com/en-us/shopping/man-bags", "https://www.off---white.com/en-us/shopping/man-accessories", "https://www.off---white.com/en-us/shopping/man-jewelry", "https://www.off---white.com/en-us/shopping/woman-clothing", "https://www.off---white.com/en-us/shopping/woman-shoes", "https://www.off---white.com/en-us/shopping/woman-activewear", "https://www.off---white.com/en-us/shopping/woman-bags", "https://www.off---white.com/en-us/shopping/woman-accessories", "https://www.off---white.com/en-us/shopping/woman-jewelry", "https://www.off---white.com/en-us/shopping/kids-boys", "https://www.off---white.com/en-us/shopping/kids-girls", "https://www.off---white.com/en-us/shopping/kids-baby", "https://www.off---white.com/en-us/shopping/eyewear-sunglasses", "https://www.off---white.com/en-us/shopping/eyewear-eyeglasses", "https://www.off---white.com/en-us/shopping/eyewear-icon-sunglasses", "https://www.off---white.com/en-us/shopping/homeware"]
-  },
   "412": {
     "METHOD": "Pages",
     "DIRECTORY": "Palm_Angels",
