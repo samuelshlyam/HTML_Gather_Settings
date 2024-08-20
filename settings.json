@@ -1677,7 +1677,7 @@
         "METHOD": "Pages",
         "BRAND_NAME": "Veja",
         "ELEMENT_LOCATOR": [
-            "a.action.next"
+            "div.columns > div > div.toolbar-bottom > div:nth-child(2) > div > ul > li.item.pages-item-next > a"
         ],
         "POPUP_TEXT": [],
         "POPUP_ID": [],
